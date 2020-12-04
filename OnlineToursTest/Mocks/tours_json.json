@@ -1,0 +1,38 @@
+[
+	{
+		"avg_air_temp": 16.0,
+		"country_id": 1601,
+		"country_name": "Турция",
+		"min_water_temp": 18.0,
+		"photo": "http://static3.olt.su/system/uploads/region_photo/image/1052/456.jpg",
+		"region_id": 98683,
+		"region_name": "Кемер",
+		"region_tags": [
+			"beach"
+		],
+		"top": {
+			"cost": {
+				"duration": 8,
+				"hotel": {
+					"country_id": 1601,
+					"id": 57200,
+					"name": "Ares City",
+					"photos": [
+						"http://static3.olt.su/system/uploads/hotel_photo/image/05/38/94/79/1.jpg",
+						"http://static3.olt.su/system/uploads/hotel_photo/image/01/24/62/24/9732811.jpg"
+					],
+					"rating": 6.7,
+					"stars": 3
+				},
+				"mobile_offer_id": 1409,
+				"price": {
+					"total": 17348
+				},
+				"start_date": "2017-05-13",
+				"updated_at": "2017-04-14T10:31:54.954+03:00"
+			},
+			"ctr": { ... },
+			"popularity": { ... }
+		}
+	}
+]
